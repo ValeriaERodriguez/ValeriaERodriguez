@@ -60,8 +60,9 @@ Nota no consigo hacer un shields con el logo de obs. Utilice las paginas: https:
 ### 📫 Connect with me:
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](valeriaelisabetrgz@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaelisabetr/)
 
 
-<footer>Made with ❤️ by Vale</footer>
+
+
+<footer>                                                    Made with ❤️ by Vale                                                      </footer>
