@@ -1,3 +1,5 @@
+
+
 # 👋 Hi , my name is Valeria Rodriguez 
 
 
@@ -26,7 +28,7 @@
 
 ------------
 
-### 💻 My Current Workstation Specifications
+ ### 💻 My Current Workstation Specifications 
 
 
 
@@ -62,4 +64,4 @@ Nota no consigo hacer un shields con el logo de obs. Utilice las paginas: https:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaelisabetr/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ValuchiEli)
 
-<footer>                                                    Made with ❤️ by Vale                                                      </footer>
+<footer><span> Made with ❤️ by Vale</span></footer>
