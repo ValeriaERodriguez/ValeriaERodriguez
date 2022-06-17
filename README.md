@@ -1,13 +1,18 @@
-
+<div id="header" align="center">
 
 # 👋 Hi , my name is Valeria Rodriguez 
 
 
  :iphone:	I am interested in mobile development. I am self-taught in swift and kotlin. Also, I have some front-end knowledge.
 
+</div>
+
 
 ------------------------
 
+<div align="center">
+ 
+ 
 ### 👩🏻‍💻 Languages and Tools:
 
 
@@ -24,9 +29,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ValeriaERodriguez)[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ValeriaERodriguez)
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
+ 
+</div>
 
 ------------
+
+<div align="center">
+ 
 
  ### 💻 My Current Workstation Specifications 
 
@@ -49,20 +58,30 @@ Nota no consigo hacer un shields con el logo de obs. Utilice las paginas: https:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 -->
+ </div>
 
 --------------------
+ 
+ <div align="center">
+  
 
 ### 🎨 Design
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ 
+ </div>
 
 ---------------
-
+<div id="footer" align="center">
+ 
+ 
 ### 📫 Connect with me:
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](valeriaelisabetrgz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaelisabetr/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ValuchiEli)
 
-<footer><span> Made with ❤️ by Vale</span></footer>
+
+ Made with ❤️ by Vale
+ </div>
