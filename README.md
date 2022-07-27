@@ -5,7 +5,7 @@
 
 :iphone:	I am interested in mobile development. I am self-taught in swift and kotlin. Also, I have some front-end knowledge.🇦🇷 I'm from Argentina.
  
- 🌎 I like learnt lenguages. 🎸 I love play guitar and listen music.
+ 🌎 I like learnting lenguages. 🎸 I love play guitar and listen music.
 </div>
 
 
