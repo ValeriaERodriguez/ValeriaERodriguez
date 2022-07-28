@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
 
 # 👋 Hi , my name is Valeria Rodriguez 
 
@@ -75,7 +75,7 @@ Nota no consigo hacer un shields con el logo de obs. Utilice las paginas: https:
  </div>
 
 ---------------
-<div id="footer" align="center">
+<div align="center">
  
  
 ### 📫 Connect with me:
