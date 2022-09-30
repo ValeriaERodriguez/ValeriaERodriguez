@@ -40,7 +40,7 @@
 </div>
 
 ------------
-<--!
+<!--
 <div align="center">
  
 
@@ -63,9 +63,9 @@ Nota no consigo hacer un shields con el logo de obs. Utilice las paginas: https:
 ![OBS](https://img.shields.io/badge/OBS-Studio?style=for-the-badge&logo=appveyor?logo=visual-studio-code)
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
--->
- </div>
 
+ </div>
+-->
 --------------------
  
  <div align="center">
