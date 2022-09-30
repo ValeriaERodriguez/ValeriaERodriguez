@@ -40,7 +40,7 @@
 </div>
 
 ------------
-
+<--!
 <div align="center">
  
 
@@ -57,7 +57,7 @@
 
 
 
-<!-- Agregar Flutter cuando tengo aunque sea una app ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+ Agregar Flutter cuando tengo aunque sea una app ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 Nota no consigo hacer un shields con el logo de obs. Utilice las paginas: https://shields.io/ y https://simpleicons.org/?q=obs
 ![OBS](https://img.shields.io/badge/OBS-Studio?style=for-the-badge&logo=appveyor?logo=visual-studio-code)
