@@ -3,7 +3,7 @@
 # 👋 Hi , my name is Valeria Rodriguez 
 
 
-:iphone:	I am interested in mobile development. I am self-taught in swift and kotlin. Also, I have some front-end knowledge. I'm from Argentina.
+:iphone:	I am interested in mobile development. I am self-taught in swift, kotlin and python. Also, I have some front-end knowledge. I'm from Argentina.
  
  🌎 I like to learnt lenguages. 🎸 I love play guitar and listen music.
 </div>
